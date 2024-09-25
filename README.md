@@ -3,14 +3,37 @@
 A new Flutter project.
 
 ## Getting Started
+![Screenshot 2024-09-25 211900-portrait](https://github.com/user-attachments/assets/c03c7dc7-cfba-4afa-892b-4bb29338b738)
+![Screenshot 2024-09-25 211900-left](https://github.com/user-attachments/assets/cac6884d-8c89-4dc3-b4b7-ba7d7a5d2840)
+![Screenshot 2024-09-25 211900-landscape](https://github.com/user-attachments/assets/52c7a5f4-af26-45f0-b893-3ad98b2c9cbd)
+![Screenshot 2024-09-25 211825-portrait](https://github.com/user-attachments/assets/f56d5104-e8ef-41f7-a690-3f334caab311)
+![Screenshot 2024-09-25 211825-left](https://github.com/user-attachments/assets/8f58605f-ab4b-4da7-a553-2001ce1ef5dc)
+![Screenshot 2024-09-25 211825-landscape](https://github.com/user-attachments/assets/ce8908a2-980f-40d1-8016-2bd80ef06014)
+![Screenshot 2024-09-25 211751-portrait](https://github.com/user-attachments/assets/c0e6e6b7-10a3-4e61-849e-dc3ac140ea04)
+![Screenshot 2024-09-25 211751-left](https://github.com/user-attachments/assets/45868afd-81e9-4eef-b5bb-0c6b8680ee9f)
+![Screenshot 2024-09-25 211751-landscape](https://github.com/user-attachments/assets/f3140b01-a8e7-487f-b03a-cd28d2098f70)
+![Screenshot 2024-09-25 211638-portrait](https://github.com/user-attachments/assets/8b273f6d-acec-40a6-b49b-9b1956194526)
+![Screenshot 2024-09-25 211638-left](https://github.com/user-attachments/assets/e6e31057-f865-4902-b130-c757561148e6)
+![Screenshot 2024-09-25 211638-landscape](https://github.com/user-attachments/assets/8d032ecb-278d-4470-b9dd-ec9463bbc57f)
+![Screenshot 2024-09-25 211545-portrait](https://github.com/user-attachments/assets/99a3e300-0de6-430c-85e9-0cf064b44f84)
+![Screenshot 2024-09-25 211545-left](https://github.com/user-attachments/assets/8560d414-d9a2-41ba-bf5a-dd28a96f7e6d)
+![Screenshot 2024-09-25 211545-landscape](https://github.com/user-attachments/assets/9a8ca280-e963-4cdd-bf0a-576f4879536b)
+![Screenshot 2024-09-25 211516-portrait](https://github.com/user-attachments/assets/6a8cd841-d0b2-4dd9-b132-7c7d73dd6ba4)
+![Screenshot 2024-09-25 211516-left](https://github.com/user-attachments/assets/16e6b953-21fd-46cd-a93c-1ec51e379354)
+![Screenshot 2024-09-25 211516-landscape](https://github.com/user-attachments/assets/0d4c6404-3652-47d8-8975-01bef1c399ed)
+![Screenshot 2024-09-25 211452-portrait](https://github.com/user-attachments/assets/f4db2ab5-370f-4e68-949a-d8a5f1076cc4)
+![Screenshot 2024-09-25 211452-left](https://github.com/user-attachments/assets/b3e35d6b-e2fe-4b16-a72b-1dfea06a9264)
+![Screenshot 2024-09-25 211452-landscape](https://github.com/user-attachments/assets/ab540bf3-05f5-4a3b-99d0-5eb073eed705)
+![Screenshot 2024-09-25 211436-portrait](https://github.com/user-attachments/assets/68d58529-e427-48b9-a5f0-f19f124b722a)
+![Screenshot 2024-09-25 211436-left](https://github.com/user-attachments/assets/1941f8cf-ad2e-4e3e-bd86-fb6a18c854c1)
+![Screenshot 2024-09-25 211436-landscape](https://github.com/user-attachments/assets/a5304c6b-6fcf-48bd-b271-daf09eb09612)
+![Screenshot 2024-09-25 211343-portrait](https://github.com/user-attachments/assets/0c155dc0-6265-43d8-9744-90e774873672)
+![Screenshot 2024-09-25 211343-left](https://github.com/user-attachments/assets/02e995a5-4f7b-4f89-91a4-3478560661e9)
+![Screenshot 2024-09-25 211343-landscape](https://github.com/user-attachments/assets/301ad5aa-e0fe-4a41-b9e3-989ed3e70ae4)
+![Screenshot 2024-09-25 211302-portrait](https://github.com/user-attachments/assets/97630197-266c-472b-a634-65548938448d)
+![Screenshot 2024-09-25 211302-left](https://github.com/user-attachments/assets/09aa6cde-00ec-4713-b22f-6471a7233a20)
+![Screenshot 2024-09-25 211302-landscape](https://github.com/user-attachments/assets/61b43caf-75d2-4552-b258-59d9c0821742)
+![Screenshot 2024-09-25 211247-portrait](https://github.com/user-attachments/assets/11eb7d99-eb0b-491e-be59-fd7d929f471d)
+![Screenshot 2024-09-25 211247-left](https://github.com/user-attachments/assets/513b796c-e52e-4b1c-8329-92753fca0fed)
+![Screenshot 2024-09-25 211247-landscape](https://github.com/user-attachments/assets/081093a9-6b96-43c6-82d5-11572a641d76)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
